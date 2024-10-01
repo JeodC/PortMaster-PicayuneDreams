@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "name": "picayune.zip",
+  "items": [
+    "Picayune Dreams.sh",
+    "picayune"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "UFO 50",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet hell gameplay. Adrift across the endless void, you must fend off thousands of nightmarish and otherwordly creatures. Uncover a mysterious and surreal story. And don't forget. You mu [TRANSMISSION INTERRUPTED...]",
+    "desc_md": null,
+    "inst": "Download the demo from Steam and add the `data.win` and `options.ini` files to `ports/picayune`.",
+    "inst_md": null,
+    "genres": [
+      "other"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": null,
+    "reqs": [
+    ],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
